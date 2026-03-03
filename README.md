@@ -3,7 +3,7 @@
 This repository provides domain-specific lexical resources (sport roles) and scripts used to support the analysis of gender-related phenomena in machine translation.
 
 ## Repository contents
-- `data/`: lexical resources released under their original licenses (see `data/README.md` and per-file READMEs).
+- `data/`: lexical resources released under their original licenses (see `[data/README.md](data/README.md)` and per-file READMEs).
 - `scripts/`: scripts to reproduce derived resources (e.g., list merging).
 
 ## Reproducibility
@@ -19,6 +19,6 @@ Files containing full article texts (e.g., ruoli_*.csv) are not included for cop
 
 ## Licensing
 
-Code: MIT License (see LICENSE).
+Code: MIT License (see [LICENSE](LICENSE)).
 
 Data: released under their respective licenses (see data/README.md and per-file READMEs in data/).
