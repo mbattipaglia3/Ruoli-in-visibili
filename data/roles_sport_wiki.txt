@@ -1,0 +1,83 @@
+Deportistas femeninas por deporte
+Deportistas LGBT por deporte
+Deportistas con discapacidad por deporte
+Deportistas olímpicos por deporte
+Deportistas por deporte y país
+Deportistas por país y deporte
+Ajedrecistas
+Animadoras
+Apneístas
+Arqueros
+Atletas
+Jugadores de bádminton
+Baloncestistas
+Balonmanistas
+Beisbolistas
+Biatletas
+Billaristas
+Jugadores de bochas
+Jugadores de bolos
+Boxeadores
+Boxeadores a puño limpio
+Ciclistas
+Jugadores de críquet
+Atletas de CrossFit
+Culturistas
+Jugadores de dardos
+Deportistas de deportes acuáticos
+Deportistas de aventura
+Deportistas por deporte y localidad
+Jugadores de deportes electrónicos
+Escaladores
+Esgrimidores
+Esquiadores
+Futbolistas
+Jugadores de fútbol americano
+Jugadores de fútbol canadiense
+Jugadores de fútbol de salón
+Jugadores de fútbol sala
+Gimnastas
+Jugadores de go
+Golfistas
+Halterófilos
+Jugadores de hockey
+Jinetes
+Jugadores de curling
+Jugadores de damas
+Jugadores de fútbol playa
+Jugadores de hurling
+Jugadores de sófbol
+Karatecas
+Kickboxers
+Jugadores de lacrosse
+Luchadores
+Montañeros
+Nadadores con aletas
+Jugadores de pádel
+Paracaidistas
+Patinadores
+Patinadores artísticos
+Patinadores de velocidad
+Pelotaris
+Pentatletas modernos
+Pilotaris valencianos
+Pilotos
+Pilotos de bobsleigh
+Pilotos de skeleton
+Potencistas
+Practicantes de artes marciales mixtas
+Practicantes de muay thai
+Regatistas
+Remeros
+Jugadores de rugby
+Jugadores de rugby league
+Jugadores de shōgi
+Skaters
+Jugadores de squash
+Surfistas
+Jugadores de tenis de mesa
+Tenistas
+Tiradores
+Practicantes de trail running
+Voleibolistas
+Windsurfistas

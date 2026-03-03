@@ -1,0 +1,9 @@
+Corredor
+Delantero
+Entrenadora
+Lanzador
+Deportista
+Jugador
+Defensor
+Portero
+Nadador
