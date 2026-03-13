@@ -7,3 +7,5 @@ This folder contains data resources released under their respective licenses.
 
 - [`roles_fundeuRAE.txt`](roles_fundeuRAE.txt) — CC BY-SA 3.0 Unported (derived from FundéuRAE).  
   See [README_roles_fundeuRAE.txt](README_roles_fundeuRAE.txt).
+
+- [`ref.csv`](ref.csv) — bibliographic metadata and URLs for the source articles.
