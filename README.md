@@ -1,4 +1,4 @@
-# Ruoli (in)visibili: bias di genere, traduzione automatica e il contributo dell’IA generativa
+# Ruoli (in)visibili: nomina agentis sportivi e bias di genere in traduzione automatica
 
 This repository provides domain-specific lexical terms (sport roles) and scripts used to support the analysis of gender-related phenomena in machine translation.
 
