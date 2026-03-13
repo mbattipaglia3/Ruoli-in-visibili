@@ -1,6 +1,6 @@
-# Ruoli (in)visibili: nomina agentis sportivi e bias di genere in traduzione automatica
+# Ruoli (in)visibili: _nomina agentis_ sportivi e _bias_ di genere in traduzione automatica
 
-This repository provides domain-specific lexical terms (nomina agentis) and scripts used to support the analysis of gender-related phenomena in machine translation.
+This repository provides domain-specific lexical terms (_nomina agentis_) and scripts used to support the analysis of gender-related phenomena in machine translation.
 
 ## Repository contents
 - `data/`: lexical resources released under their original licenses (see [data/README.md](data/README.md) and per-file READMEs).
