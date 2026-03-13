@@ -6,7 +6,7 @@ This repository provides domain-specific lexical terms (sport roles) and scripts
 - `data/`: lexical resources released under their original licenses (see [data/README.md](data/README.md) and per-file READMEs).
 - `scripts/`: scripts to reproduce derived resources (e.g., list merging).
 
-## Sources (metadata)
+## Sources
 Bibliographic metadata and source URLs are provided in [`data/ref.csv`](data/ref.csv).  
 Full article texts are not redistributed for copyright reasons.
 
@@ -28,10 +28,8 @@ Files containing full article texts are not included for copyright reasons.
 
 Code: MIT License (see [LICENSE](LICENSE)).
 
-Data: released under their respective licenses (see data/README.md and per-file READMEs in data/).
+Data: released under their respective licenses (see [`data/README.md`](data/README.md) and per-file READMEs in data/).
 
-
-Se vuoi aggiungere anche una riga “How to cite” (utile quando pubblichi il paper), possiamo mettere in fondo:
 
 ## How to cite
 Please cite the associated paper (forthcoming) and this repository.
