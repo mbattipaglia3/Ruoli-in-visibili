@@ -3,7 +3,7 @@
 This folder contains the machine translations for the selected sentences in the source text, provided separately for each system.
 
 ## Files
-- [`mt_G.csv`](`mt_G.csv`)
+- [`../mt_G.csv`](`../mt_G.csv`)
 - [`mt_B.csv`](`mt_B.csv`)
 - [`mt_P1.csv`](`mt_P1.csv`)
 
