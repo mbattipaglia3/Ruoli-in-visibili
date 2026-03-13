@@ -1,15 +1,15 @@
 # Translations
 
-This folder contains Italian machine translations for the 49 selected sentences in the source text, provided separately for each system.
+This folder contains the machine translations for the selected sentences in the source text, provided separately for each system.
 
 ## Files
-- `translations_gt.csv`
-- `translations_bi.csv`
-- `translations_gpt.csv`
+- `translations_G.csv`
+- `translations_B.csv`
+- `translations_P1.csv`
 
-##
+## Sources
 Source article metadata and URLs are available in [`../ref.csv`](../ref.csv).
 
-## Copyright notice
+## Copyright
 The full original articles are copyright-protected by their respective publishers and are not redistributed in this repository.
 The excerpts and translations included here are provided for research transparency and are linked to the original sources via `ref.csv`.
