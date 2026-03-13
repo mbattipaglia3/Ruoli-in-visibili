@@ -6,6 +6,10 @@ This repository provides domain-specific lexical terms (sport roles) and scripts
 - `data/`: lexical resources released under their original licenses (see [data/README.md](data/README.md) and per-file READMEs).
 - `scripts/`: scripts to reproduce derived resources (e.g., list merging).
 
+## Sources (metadata)
+Bibliographic metadata and source URLs are provided in [`data/ref.csv`](data/ref.csv).  
+Full article texts are not redistributed for copyright reasons.
+
 ## Requirements
 - Python 3.9+ (any recent Python 3 should work)
   
