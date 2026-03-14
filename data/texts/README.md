@@ -1,11 +1,11 @@
 # Translations
 
-This folder contains the machine translations for the selected sentences in the source text, provided separately for each system.
+This folder contains the Italian machine translations for the 49 selected sentences, provided separately for each system.
 
 ## Files
-- [`mt_G.csv`](`mt_G.csv`)
-- [`mt_B.csv`](`mt_B.csv`)
-- [`mt_P1.csv`](`mt_P1.csv`)
+- [`mt_G.csv`](`mt_G.csv`) - Google Translate
+- [`mt_B.csv`](`mt_B.csv`) - Bing Translator
+- [`mt_P1.csv`](`mt_P1.csv`) - ChatGPT
 
 ## Sources
 Source article metadata and URLs are available in [`../ref.csv`](../ref.csv).
