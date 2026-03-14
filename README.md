@@ -23,9 +23,11 @@ python scripts/merge_roles.py --wiki data/roles_sport_wiki.txt --fundeu data/rol
 ## Translations
 Machine translations for the selected  sentences are provided in [`data/texts/`](`data/texts/`) (one file per system) and are linked to sources via ref.csv.
 
-## Copyright and use of excerpts
+## Copyright
 This repository is released for **non-commercial research** purposes.
+
 Original articles are copyright-protected by their respective publishers and are **not** redistributed in full.
+
 Where short excerpts and derived translations are provided (e.g., selected evaluation sentences), they are included solely for research transparency and are linked to the original sources via [`data/ref.csv`](data/ref.csv).
 
 ## Licensing
