@@ -4,8 +4,8 @@ This folder contains the Italian machine translations for the 49 selected senten
 
 ## Files
 - [`MT_GT.csv`](`MT_GT.csv`) - Google Translate
-- [`mt_B.csv`](`mt_B.csv`) - Bing Translator
-- [`mt_P1.csv`](`mt_P1.csv`) - ChatGPT
+- [`MT_BT.csv`](`MT_BT.csv`) - Bing Translator
+- [`MT_GPT.csv`](`MT_GPT.csv`) - ChatGPT
 
 ## Sources
 Source article metadata and URLs are available in [`../ref.csv`](../ref.csv).
