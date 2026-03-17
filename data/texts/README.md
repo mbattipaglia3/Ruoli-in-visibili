@@ -3,7 +3,7 @@
 This folder contains the Italian machine translations for the 49 selected sentences, provided separately for each system.
 
 ## Files
-- [`mt_G.csv`](`mt_G.csv`) - Google Translate
+- [`MT_GT.csv`](`MT_GT.csv`) - Google Translate
 - [`mt_B.csv`](`mt_B.csv`) - Bing Translator
 - [`mt_P1.csv`](`mt_P1.csv`) - ChatGPT
 
