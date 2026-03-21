@@ -1,9 +1,3 @@
-Deportistas femeninas por deporte
-Deportistas LGBT por deporte
-Deportistas con discapacidad por deporte
-Deportistas olímpicos por deporte
-Deportistas por deporte y país
-Deportistas por país y deporte
 Ajedrecistas
 Animadoras
 Apneístas
