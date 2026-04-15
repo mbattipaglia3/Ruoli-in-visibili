@@ -1,5 +1,5 @@
 # Ruoli (in)visibili: _nomina agentis_ sportivi e _bias_ di genere in traduzione automatica
-# (In)visible Roles: Sporting nomina agentis and gender bias in Machine Translation
+(In)visible Roles: Sporting nomina agentis and gender bias in Machine Translation
 
 This repository provides domain-specific terminology (_nomina agentis_ and sports role names) and scripts to support the analysis of gender-related phenomena in machine translation of sports journalism texts.
 
